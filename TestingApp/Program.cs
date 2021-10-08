@@ -6,6 +6,7 @@ namespace TestingApp
     {
         static void Main(string[] args)
         {
+            console.writeline("test");
             Console.WriteLine("Hello World!");
         }
     }
